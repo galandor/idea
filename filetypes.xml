@@ -12,7 +12,6 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="uxf" type="Native" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
