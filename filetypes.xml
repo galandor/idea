@@ -16,6 +16,7 @@
       <mapping pattern="DataTypeUtils" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
