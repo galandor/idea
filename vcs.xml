@@ -94,6 +94,10 @@
           <option name="url" value="https://bitbucket.org/ilboychuk/spring-nginx-auth-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab8.alx:mobile-platform/mmsp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
