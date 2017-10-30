@@ -114,6 +114,10 @@
           <option name="url" value="git@gitlab8.alx:mmsp/telegram-message-handler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab8.alx:msp-ui/operator-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
