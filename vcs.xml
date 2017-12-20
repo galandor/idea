@@ -138,6 +138,10 @@
           <option name="url" value="git@gitlab8.alx:mmsp/msp-application-monitoring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab8.alx:tl_support/tl_support_integration-tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
