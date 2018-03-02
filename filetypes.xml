@@ -19,6 +19,7 @@
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
