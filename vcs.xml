@@ -194,6 +194,10 @@
           <option name="url" value="git@gitlab8.alx:mmsp/msp-application-awiptogrpc-adapter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://orsevic@bitbucket.org/orsevic/spring_udemy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
