@@ -206,6 +206,10 @@
           <option name="url" value="https://orsevic@bitbucket.org/orsevic/groovy_test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alx:devops/msp-boot-dependencies.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
